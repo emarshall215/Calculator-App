@@ -11,7 +11,7 @@ body{
 }
 
 .container{
-    height: 100vh;
+    height: 97vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -44,6 +44,7 @@ input{
 button {
     background-color:aqua;
     box-shadow: 2px 2px 5px #2d1515;
+    
 }
 
 .btn-ac{
