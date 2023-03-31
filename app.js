@@ -16,7 +16,7 @@ let Result = () => {
 }
 
 function clr(){
-    result.value = " ";
+    result.value = "";
 }
 
 function del(){
